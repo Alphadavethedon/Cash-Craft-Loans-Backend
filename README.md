@@ -87,7 +87,7 @@ npm run dev
 MPESA_CONSUMER_KEY=your_safaricom_key
 MPESA_PAYBILL=123456                # Your Kenyan paybill number
 AT_API_KEY=your_africastalking_key  
-CRB_METROPOL_KEY=your_metropol_key  
+CRB_METROPOL_KEY=metropol_key  
 CBK_MAX_INTEREST=14.5               # Comply with Kenyan rate caps
 ```
 
