@@ -1,0 +1,32 @@
+{
+  "name": "cash-craft-loan-backend",
+  "version": "1.0.0",
+  "description": "**A high-performance, compliant backend for mobile lending applications in Kenya**   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![CBK-Compliant](https://img.shields.io/badge/Regulation-CBK_Approved-green)](https://www.centralbank.go.ke)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alphadavethedon/Cash-Craft-Loans-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alphadavethedon/Cash-Craft-Loans-Backend/issues"
+  },
+  "homepage": "https://github.com/Alphadavethedon/Cash-Craft-Loans-Backend#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
